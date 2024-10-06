@@ -1,0 +1,6 @@
+@Spotify_HostAddress = http://:5059
+
+GET {{Spotify_HostAddress}}/spotify/
+Accept: application/json
+
+###
